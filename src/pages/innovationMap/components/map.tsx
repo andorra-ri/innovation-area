@@ -10,7 +10,7 @@ import { isMapLoading, selectIsDark, selectMapLayer } from 'modules/map/selector
 import { MapAction } from 'modules/map/actions';
 import { Button, notification, Space } from 'antd';
 import { MAP_MODULE } from 'models/map';
-import { GlobalOutlined, CalendarOutlined, RiseOutlined, DollarOutlined } from '@ant-design/icons'
+import { GlobalOutlined, CalendarOutlined, DollarOutlined } from '@ant-design/icons'
 
 //Creo la instancia del MAPA
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2FybGVzc2VycmEiLCJhIjoiY20wbWZmZnViMDI3eTJsc2Q4aDcxaTYyNiJ9.EiNooU30YXNnmtwc-UccLg'
@@ -50,7 +50,7 @@ const Map = () => {
             (<> <CalendarOutlined /> <strong>Inici d'Activitat: </strong> {startActivity} </>)
           }
           <br/>
-          <RiseOutlined /> <strong> Participació en programes ARI/AB: </strong> {programs ? 'Sí' : 'No' }
+          {/* <RiseOutlined /> <strong> Participació en programes ARI/AB: </strong> {programs ? 'Sí' : 'No' } */}
           <br/>
           {investment && 
             (<> <DollarOutlined /> <strong>Inversió: </strong> {
