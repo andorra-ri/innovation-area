@@ -10,7 +10,7 @@ import { isMapLoading, selectIsDark, selectMapLayer } from 'modules/map/selector
 import { MapAction } from 'modules/map/actions';
 import { Button, notification, Space } from 'antd';
 import { MAP_MODULE } from 'models/map';
-import { GlobalOutlined, CalendarOutlined, DollarOutlined } from '@ant-design/icons'
+import { GlobalOutlined, CalendarOutlined, DollarOutlined, RocketOutlined } from '@ant-design/icons'
 
 //Creo la instancia del MAPA
 mapboxgl.accessToken = 'pk.eyJ1IjoiY2FybGVzc2VycmEiLCJhIjoiY20wbWZmZnViMDI3eTJsc2Q4aDcxaTYyNiJ9.EiNooU30YXNnmtwc-UccLg'
@@ -42,7 +42,7 @@ const Map = () => {
 
   const openNotification = (message: string, description: string, web: string, investment: string, programs: string, startActivity: string) => {
     api.open({
-      message: (<></>), //<RocketOutlined/> <strong>{message}</strong>
+      message: (<><RocketOutlined/> <strong>{message}</strong></>),
       description: (<>
         <div style={{color: 'grey'}}>{description}</div>
         <div style={{paddingLeft: '7%', paddingTop: '5px'}}>
