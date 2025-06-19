@@ -1,9 +1,7 @@
 import { Button, Divider, Typography } from "antd"
 import { useAppDispatch } from "config/store/hooks"
-import { MODALS } from "models/ui"
-import { ModalAction } from "modules/ui/actions"
 import { FunctionComponent, ReactElement, ReactNode } from "react"
-import { AreaChartOutlined, FilterOutlined } from '@ant-design/icons'
+import { FilterOutlined } from '@ant-design/icons'
 
 import { Form } from "components/form"
 import { ARIFieldCheckBox } from "components/form/ariFieldCheckBox"
@@ -61,8 +59,9 @@ export const FormDataFilter: FunctionComponent<Props> = (): ReactElement => {
     >
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <Typography.Title level={5} style={{ marginBottom: '0px', marginTop: '0px' }}> Filtrar </Typography.Title>
-        <div style={{ display: 'flex', marginLeft: 'auto', alignSelf: 'flex-end' }}>
-          <Button style={{ marginLeft: '5px', backgroundColor: 'white', border: 'none' }} onClick={() => { dispatch(ModalAction.openModal({ name: MODALS.CURRENT_SITUATION })) } }>Resum<AreaChartOutlined /></Button>        </div>
+        {/* <div style={{ display: 'flex', marginLeft: 'auto', alignSelf: 'flex-end' }}>
+          <Button style={{ marginLeft: '5px', backgroundColor: 'white', border: 'none' }} onClick={() => { dispatch(ModalAction.openModal({ name: MODALS.CURRENT_SITUATION })) } }>Resum<AreaChartOutlined /></Button>       
+         </div> */}
       </div>
       <Divider style={{ marginTop: '0px' }} />
       <div style={{ marginLeft: '20px' }}>

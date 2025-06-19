@@ -107,24 +107,156 @@ export module COMPANIES {
         "logo": "",
     },
     {
+      "name": "Etëlatar",
+      "address": {
+        "zipCode": "",
+        "address": "",
+        "coordinates": {
+          "latitude": 42.506163,
+          "longitude": 1.521259
+        }
+      },
+      "sector": "Altres",
+      "info": "Mobilitat",
+      "startActivity": "",
+      "contact": {
+        "url": ""
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+  },
+  {
+    "name": "Olyverse",
+    "address": {
+      "zipCode": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.506505,
+        "longitude": 1.5215730
+      }
+    },
+    "sector": "Esports",
+    "info": "Fan Engagement a través de IA",
+    "startActivity": "",
+    "contact": {
+      "url": ""
+    },
+    "investment": "",
+    "type": COMPANIES_MODULE.TYPE.START_UP,
+    "programs": false,
+    "logo": "",
+},
+
+{
+  "name": "Tag Systems",
+  "address": {
+    "zipCode": "",
+    "address": "",
+    "coordinates": {
+      "latitude": 42.499201,
+      "longitude": 1.517392
+    }
+  },
+  "sector": "Altres",
+  "info": "",
+  "startActivity": "",
+  "contact": {
+    "url": ""
+  },
+  "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+  "type": COMPANIES_MODULE.TYPE.CORPORATE,
+  "programs": false,
+  "logo": "",
+},
+
+
+
+  {
+    "name": "Immfly",
+    "address": {
+      "zipCode": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.506120,
+        "longitude": 1.520725
+      }
+    },
+    "sector": "Altres",
+    "info": "",
+    "startActivity": "",
+    "contact": {
+      "url": ""
+    },
+    "investment": "",
+    "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+    "programs": false,
+    "logo": "",
+},
+
+
+  {
+    "name": "Grup Heracles",
+    "address": {
+      "zipCode": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.509459,
+        "longitude": 1.535658
+      }
+    },
+    "sector": "Altres",
+    "info": "Constructora",
+    "startActivity": "",
+    "contact": {
+      "url": ""
+    },
+    "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+    "type": COMPANIES_MODULE.TYPE.CORPORATE,
+    "programs": false,
+    "logo": "",
+},
+  {
+    "name": "FEDA",
+    "address": {
+      "zipCode": "",
+      "address": "",
+      "coordinates": {
+        "latitude": 42.514827,
+        "longitude": 1.553269
+      }
+    },
+    "sector": "altres",
+    "info": "Forces Elèctriques d'Andorra",
+    "startActivity": "",
+    "contact": {
+      "url": ""
+    },
+    "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+    "type": COMPANIES_MODULE.TYPE.CORPORATE,
+    "programs": false,
+    "logo": "",
+},
+    {
         "name": "ARC Institute",
         "address": {
           "zipCode": "",
           "address": "",
           "coordinates": {
-            "latitude": "",
-            "longitude": ""
+            "latitude": 42.506159,
+            "longitude": 1.521084
           }
         },
         "sector": "Educació",
-        "info": "Empresa de telecomunicacions d'Andorra",
+        "info": "",
         "startActivity": 1975,
         "contact": {
-          "url": "https://www.andorratelecom.ad"
+          "url": ""
         },
         "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
-        "type": COMPANIES_MODULE.TYPE.START_UP,
-        "programs": true,
+        "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+        "programs": false,
         "logo": "",
     },
     {
@@ -210,28 +342,49 @@ export module COMPANIES {
         "type": COMPANIES_MODULE.TYPE.EMPRENETEUR,
         "programs": true,
         "logo": "",
-    },
+    },   
     {
-        "name": "City Xerpa",
-        "address": {
-          "zipCode": "",
-          "address": "",
-          "coordinates": {
-            "latitude": "",
-            "longitude": ""
-          }
-        },
-        "sector": "ALTRES",
-        "info": "Desenvolupament d'assitents d'IA",
-        "startActivity": 2018,
-        "contact": {
-          "url": "https://chatbotfor.ai/"
-        },
-        "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
-        "type": COMPANIES_MODULE.TYPE.EMPRENETEUR,
-        "programs": true,
-        "logo": "",
-    },
+      "name": "Climbex",
+      "address": {
+        "zipCode": "",
+        "address": "",
+        "coordinates": {
+          "latitude": 42.506336,
+          "longitude": 1.521152
+        }
+      },
+      "sector": "ALTRES",
+      "info": "Desenvolupament d'aplicacions",
+      "startActivity": 2025,
+      "contact": {
+        "url": ""
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+      "type": COMPANIES_MODULE.TYPE.EMPRENETEUR,
+      "programs": false,
+      "logo": "",
+  },
+  {
+      "name": "City Xerpa",
+      "address": {
+        "zipCode": "",
+        "address": "",
+        "coordinates": {
+          "latitude": 42.506264,
+          "longitude": 1.521093
+        }
+      },
+      "sector": "ALTRES",
+      "info": "Aplicació de Delivery",
+      "startActivity": 2018,
+      "contact": {
+        "url": "https://cityxerpa.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+      "type": COMPANIES_MODULE.TYPE.EMPRENETEUR,
+      "programs": false,
+      "logo": "",
+  },
     {
         "name": "Commençal",
         "address": {
@@ -616,8 +769,8 @@ export module COMPANIES {
           "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
           "address": "Av. de Sant Antoni, 32, AD400, La Massana",
           "coordinates": {
-            "latitude": 2.544215,
-            "longitude": 1.515677,
+            "latitude": 42.543845,
+            "longitude": 1.516132,
           }
         },
         "sector": "FINTECH",
