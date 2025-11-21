@@ -651,48 +651,48 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
-    // {
-    //   "name": "ALPINE",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Passatge d'Europa, 3, AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.508062,
-    //       "longitude": 1.531592,
-    //     }
-    //   },
-    //   "sector": "TIC / CIBERSEGURETAT",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.alpinesec.io/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "Equilux Aero + Quiver Tree Media",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Urbanització Prat Condal, AD500, Santa Coloma",
-    //     "coordinates": {
-    //       "latitude": 42.495406,
-    //       "longitude": 1.498067,
-    //     }
-    //   },
-    //   "sector": "ALTRES",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.immfly.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // },
+    {
+      "name": "ALPINE",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Passatge d'Europa, 3, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.508062,
+          "longitude": 1.531592,
+        }
+      },
+      "sector": "TIC / CIBERSEGURETAT",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.alpinesec.io/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Equilux Aero + Quiver Tree Media",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Urbanització Prat Condal, AD500, Santa Coloma",
+        "coordinates": {
+          "latitude": 42.495406,
+          "longitude": 1.498067,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.immfly.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
     // {
     //   "name": "Blockchain School",
     //   "address": {
