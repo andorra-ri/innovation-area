@@ -777,48 +777,48 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
-    // {
-    //   "name": "Experiencia VR ",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C/ de la Sardana 6, AD500 Andorra la Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507746,
-    //       "longitude": 1.528927,
-    //     }
-    //   },
-    //   "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.experiencia-vr.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "MotorSport Simracing",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C/ Mossen Lluis Pujol 7, AD500 Andorra la Vella",
-    //     "coordinates": {
-    //       "latitude": 42.497273,
-    //       "longitude": 1.500725,
-    //     }
-    //   },
-    //   "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.simracingmotorsport.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
+    {
+      "name": "Experiencia VR ",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ de la Sardana 6, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.507746,
+          "longitude": 1.528927,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.experiencia-vr.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "MotorSport Simracing",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ Mossen Lluis Pujol 7, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.497273,
+          "longitude": 1.500725,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.simracingmotorsport.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
     // {
     //   "name": "Ploxion Verse ",
     //   "address": {
