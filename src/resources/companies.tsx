@@ -630,5 +630,236 @@ export module COMPANIES {
       "programs": true,
       "logo": "",
     },
+    {
+      "name": "CHIROLISTIC COACHING SLU",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Av. Sant Antoni, 32, AD400, Arinsal",
+        "coordinates": {
+          "latitude": 42.543993,
+          "longitude": 1.515909,
+        }
+      },
+      "sector": "SALUD / BIOTECH",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://wellnespirit.com/es"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "ALPINE",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Passatge d'Europa, 3, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.508062,
+          "longitude": 1.531592,
+        }
+      },
+      "sector": "TIC / CIBERSEGURETAT",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.alpinesec.io/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Equilux Aero + Quiver Tree Media - QuiverTree Media",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Urbanització Prat Condal, AD500, Santa Coloma",
+        "coordinates": {
+          "latitude": 42.495406,
+          "longitude": 1.498067,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.immfly.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Blockchain School",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "c/Roc dels Escolls,7 , AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507771,
+          "longitude": 1.524114,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://blockchainschoolbcs.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": true,
+      "logo": "",
+    },
+    {
+      "name": "Amb Tu",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ Callaueta, 8, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507007,
+          "longitude": 1.530003,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://ambtu.ad/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Atyum",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ del Fener, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.5070991,
+          "longitude": 1.5334789,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://atyum.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Undercoverlabs",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ de la Sardana 3, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.507827,
+          "longitude": 1.529028,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://undercoverlab.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Experiencia VR ",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ de la Sardana 6, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.507746,
+          "longitude": 1.528927,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.experiencia-vr.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "MotorSport Simracing",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ Mossen Lluis Pujol 7, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.497273,
+          "longitude": 1.500725,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.simracingmotorsport.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Ploxion Verse ",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Av Dr. Mitjavila 5, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.509103,
+          "longitude": 1.529417,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.ploxionverse.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Broox",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Av. de Sant Antoni, 68, AD400, La Massana",
+        "coordinates": {
+          "latitude": 42.540157,
+          "longitude": 1.519303,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.ploxionverse.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    }
   ]
 }
