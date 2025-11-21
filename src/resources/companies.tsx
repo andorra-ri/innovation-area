@@ -609,48 +609,48 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
-    // {
-    //   "name": "Zemsania",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
-    //     "address": "Bordes d'Arinsal, AD400, Arinsal",
-    //     "coordinates": {
-    //       "latitude": 42.568662,
-    //       "longitude": 1.487950,
-    //     }
-    //   },
-    //   "sector": "NOVES TECNOLOGIES",
-    //   "info": "Consultora tecnològica",
-    //   "startActivity": "2023",
-    //   "contact": {
-    //     "url": "https://careers.zemsania.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": true,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "CHIROLISTIC COACHING SLU",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
-    //     "address": "Av. Sant Antoni, 32, AD400, Arinsal",
-    //     "coordinates": {
-    //       "latitude": 42.543993,
-    //       "longitude": 1.515909,
-    //     }
-    //   },
-    //   "sector": "SALUD / BIOTECH",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://wellnespirit.com/es"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // },
+    {
+      "name": "Zemsania",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Bordes d'Arinsal, AD400, Arinsal",
+        "coordinates": {
+          "latitude": 42.568662,
+          "longitude": 1.487950,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES",
+      "info": "Consultora tecnològica",
+      "startActivity": "2023",
+      "contact": {
+        "url": "https://careers.zemsania.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": true,
+      "logo": "",
+    },
+    {
+      "name": "CHIROLISTIC COACHING SLU",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Av. Sant Antoni, 32, AD400, Arinsal",
+        "coordinates": {
+          "latitude": 42.543993,
+          "longitude": 1.515909,
+        }
+      },
+      "sector": "SALUD / BIOTECH",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://wellnespirit.com/es"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
     // {
     //   "name": "ALPINE",
     //   "address": {
