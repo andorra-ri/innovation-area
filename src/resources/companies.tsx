@@ -693,90 +693,90 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
-    // {
-    //   "name": "Blockchain School",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "c/Roc dels Escolls,7 , AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507771,
-    //       "longitude": 1.524114,
-    //     }
-    //   },
-    //   "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://blockchainschoolbcs.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": true,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "Amb Tu",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C/ Callaueta, 8, AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507007,
-    //       "longitude": 1.530003,
-    //     }
-    //   },
-    //   "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://ambtu.ad/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "Atyum",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C/ del Fener, AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.5070991,
-    //       "longitude": 1.5334789,
-    //     }
-    //   },
-    //   "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://atyum.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "Undercoverlabs",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C/ de la Sardana 3, AD500 Andorra la Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507827,
-    //       "longitude": 1.529028,
-    //     }
-    //   },
-    //   "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://undercoverlab.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
+    {
+      "name": "Blockchain School",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "c/Roc dels Escolls,7 , AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507771,
+          "longitude": 1.524114,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://blockchainschoolbcs.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": true,
+      "logo": "",
+    },
+    {
+      "name": "Amb Tu",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ Callaueta, 8, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507007,
+          "longitude": 1.530003,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://ambtu.ad/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Atyum",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ del Fener, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.5070991,
+          "longitude": 1.5334789,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://atyum.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Undercoverlabs",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C/ de la Sardana 3, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.507827,
+          "longitude": 1.529028,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://undercoverlab.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
     // {
     //   "name": "Experiencia VR ",
     //   "address": {
