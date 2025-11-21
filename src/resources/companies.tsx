@@ -819,47 +819,47 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
-    // {
-    //   "name": "Ploxion Verse ",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Av Dr. Mitjavila 5, AD500 Andorra la Vella",
-    //     "coordinates": {
-    //       "latitude": 42.509103,
-    //       "longitude": 1.529417,
-    //     }
-    //   },
-    //   "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.ploxionverse.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
-    // {
-    //   "name": "Broox",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
-    //     "address": "Av. de Sant Antoni, 68, AD400, La Massana",
-    //     "coordinates": {
-    //       "latitude": 42.540157,
-    //       "longitude": 1.519303,
-    //     }
-    //   },
-    //   "sector": "ALTRES",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://www.ploxionverse.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": false,
-    //   "logo": "",
-    // },
+    {
+      "name": "Ploxion Verse ",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Av Dr. Mitjavila 5, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.509103,
+          "longitude": 1.529417,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.ploxionverse.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Broox",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Av. de Sant Antoni, 68, AD400, La Massana",
+        "coordinates": {
+          "latitude": 42.540157,
+          "longitude": 1.519303,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.ploxionverse.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
   ]
 }
