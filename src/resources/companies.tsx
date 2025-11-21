@@ -860,6 +860,6 @@ export module COMPANIES {
       "type": COMPANIES_MODULE.TYPE.START_UP,
       "programs": false,
       "logo": "",
-    }
+    },
   ]
 }
