@@ -867,8 +867,8 @@ export module COMPANIES {
         "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
         "address": "Bonaventura Armengol, 15, AD500, Andorra La Vella",
         "coordinates": {
-          "latitude": 42.5074883,
-          "longitude": 1.5181868
+          "latitude": 42.5078104,
+          "longitude": 1.5282669
         }
       },
       "sector": "ALTRES",
