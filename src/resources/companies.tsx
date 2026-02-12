@@ -861,5 +861,68 @@ export module COMPANIES {
       "programs": false,
       "logo": "",
     },
+    {
+      "name": "Etelätär",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Bonaventura Armengol, 15, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.5074883,
+          "longitude": 1.5181868
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.thebeehive.world/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": true,
+      "logo": "",
+    }
+    //{
+    //   "name": "Neurobalance",
+    //   "address": {
+    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+    //     "address": "Carrer Prat de la Creu, 22, Local 4",
+    //     "coordinates": {
+    //       "latitude": 42.5072402,
+    //       "longitude": 1.5235996,
+    //     }
+    //   },
+    //   "sector": "SALUT / BIOTECH",
+    //   "info": "",
+    //   "startActivity": "",
+    //   "contact": {
+    //     "url": "https://neurobalance.ad/"
+    //   },
+    //   "investment": "",
+    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+    //   "programs": false,
+    //   "logo": "",
+    // },{
+    //   "name": "QuilverTree Media",
+    //   "address": {
+    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+    //     "address": "Edf. Comapedrosa, Camí Ral 19 - Urbanització Prat Condal",
+    //     "coordinates": {
+    //       "latitude": 42.4960829,
+    //       "longitude": 1.4950717,
+    //     }
+    //   },
+    //   "sector": "ALTRES",
+    //   "info": "",
+    //   "startActivity": "",
+    //   "contact": {
+    //     "url": "https://quivertree-media.com/"
+    //   },
+    //   "investment": "",
+    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+    //   "programs": false,
+    //   "logo": "",
+    // }
+    
   ]
 }
