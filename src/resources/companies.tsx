@@ -337,47 +337,47 @@ export module COMPANIES {
       "programs": true,
       "logo": "",
     },
-    // {
-    //   "name": "Oklaim",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Edifici El Bolet, AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507006,
-    //       "longitude":  1.531753
-    //     }
-    //   },
-    //   "sector": "TIC / CIBERSEGURETAT",
-    //   "info": "App de reclamacions legals",
-    //   "startActivity": "2017",
-    //   "contact": {
-    //     "url": "https://oklaim.com/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
-    //   "type": COMPANIES_MODULE.TYPE.START_UP,
-    //   "programs": true,
-    // },
-    // {
-    //   "name": "PYRNET SOLUTIONS, SL",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "C. Prat de la Creu, 22, AD500, Andorra La Vella",
-    //     "coordinates": {
-    //       "latitude": 42.507240,
-    //       "longitude": 1.526228
-    //     }
-    //   },
-    //   "sector": "TIC / CIBERSEGURETAT",
-    //   "info": "Assessorament i formació en Ciberseguretat",
-    //   "startActivity": "2025",
-    //   "contact": {
-    //     "url": "https://pyrnetsolutions.com/es/inicio/"
-    //   },
-    //   "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // }, 
+    {
+      "name": "Oklaim",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Edifici El Bolet, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507006,
+          "longitude":  1.531753
+        }
+      },
+      "sector": "TIC / CIBERSEGURETAT",
+      "info": "App de reclamacions legals",
+      "startActivity": "2017",
+      "contact": {
+        "url": "https://oklaim.com/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.NACIONAL,
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": true,
+    },
+    {
+      "name": "PYRNET SOLUTIONS, SL",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "C. Prat de la Creu, 22, AD500, Andorra La Vella",
+        "coordinates": {
+          "latitude": 42.507240,
+          "longitude": 1.526228
+        }
+      },
+      "sector": "TIC / CIBERSEGURETAT",
+      "info": "Assessorament i formació en Ciberseguretat",
+      "startActivity": "2025",
+      "contact": {
+        "url": "https://pyrnetsolutions.com/es/inicio/"
+      },
+      "investment": COMPANIES_MODULE.INVESTMENT_TYPE.OUT_SIDER,
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    }, 
     {
       "name": "Etëlatar",
       "address": {
@@ -881,48 +881,216 @@ export module COMPANIES {
       "type": COMPANIES_MODULE.TYPE.START_UP,
       "programs": true,
       "logo": "",
-    }
-    //{
-    //   "name": "Neurobalance",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Carrer Prat de la Creu, 22, Local 4",
-    //     "coordinates": {
-    //       "latitude": 42.5072402,
-    //       "longitude": 1.5235996,
-    //     }
-    //   },
-    //   "sector": "SALUT / BIOTECH",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://neurobalance.ad/"
-    //   },
-    //   "investment": "",
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // },{
-    //   "name": "QuilverTree Media",
-    //   "address": {
-    //     "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
-    //     "address": "Edf. Comapedrosa, Camí Ral 19 - Urbanització Prat Condal",
-    //     "coordinates": {
-    //       "latitude": 42.4960829,
-    //       "longitude": 1.4950717,
-    //     }
-    //   },
-    //   "sector": "ALTRES",
-    //   "info": "",
-    //   "startActivity": "",
-    //   "contact": {
-    //     "url": "https://quivertree-media.com/"
-    //   },
-    //   "investment": "",
-    //   "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
-    //   "programs": false,
-    //   "logo": "",
-    // }
-    
+    },
+    {
+      "name": "Neurobalance",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Carrer Prat de la Creu, 22, Local 4",
+        "coordinates": {
+          "latitude": 42.5072402,
+          "longitude": 1.5235996,
+        }
+      },
+      "sector": "SALUT / BIOTECH",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://neurobalance.ad/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "QuilverTree Media",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Edf. Comapedrosa, Camí Ral 19 - Urbanització Prat Condal",
+        "coordinates": {
+          "latitude": 42.4960829,
+          "longitude": 1.4950717,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://quivertree-media.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "PRODUCCIO PRIVADA TOT ESPORT, SL",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Av. EL Ravell, Naus Grillaire, Local 6, AD400",
+        "coordinates": {
+          "latitude": 42.5380122,
+          "longitude": 1.512752,
+        }
+      },
+      "sector": "ESPORTS",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://production-privee.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "UNSQUARE",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Carrer Prat de la Creu, 24-26, AD500",
+        "coordinates": {
+          "latitude": 42.507212,
+          "longitude": 1.5231733,
+        }
+      },
+      "sector": "GAMING – AUDIOVISUAL – E-SPORTS",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "http://unsquarestudio.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "City Xerpa",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ESCALDES_EMGORDANY,
+        "address": "Av. de les Nacions Unides, 40, AD700 Escaldes-Engordany",
+        "coordinates": {
+          "latitude": 42.5101061,
+          "longitude": 1.5324417,
+        }
+      },
+      "sector": "ALTRES",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://cityxerpa.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.EMPRESA_PETITA,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Learning Heroes",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.ANDORRA_LA_VELLA,
+        "address": "Carrer Roc dels Escolls, 7, Edifici 3, 2A, AD500 Andorra la Vella",
+        "coordinates": {
+          "latitude": 42.5076522,
+          "longitude": 1.52155,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.learningheroes.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Idunity",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "xalet E3, Urb. Bellmont, AD400 La Massana",
+        "coordinates": {
+          "latitude": 42.5486315,
+          "longitude": 1.522204,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://idunity.co/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "Nectar",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "C/ Prat de Verdú 005, 2B, AD400",
+        "coordinates": {
+          "latitude": 42.5749845,
+          "longitude": 1.4766219,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.lausengier.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "ONYZE Assets",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "C/ Prat de Verdú 005, 2B, AD400",
+        "coordinates": {
+          "latitude": 42.5749845,
+          "longitude": 1.4766219,
+        }
+      },
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…) ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": "https://www.lausengier.com/"
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
+    {
+      "name": "AYR Holding",
+      "address": {
+        "zipCode": COMPANIES_MODULE.LOCATION.LA_MASSANA,
+        "address": "Avinguda del Través, 28, baixos, AD700",
+        "coordinates": {
+          "latitude": 42.545315,
+          "longitude": 1.516046,
+        }
+      },
+      "sector": "ESPORT ",
+      "info": "",
+      "startActivity": "",
+      "contact": {
+        "url": ""
+      },
+      "investment": "",
+      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "programs": false,
+      "logo": "",
+    },
   ]
 }
