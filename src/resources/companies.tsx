@@ -1081,14 +1081,14 @@ export module COMPANIES {
           "longitude": 1.516046,
         }
       },
-      "sector": "ESPORT ",
+      "sector": "NOVES TECNOLOGIES (BLOCKCHAIN, REALITAT AUGMENTADA…)",
       "info": "",
       "startActivity": "",
       "contact": {
-        "url": ""
+        "url": "https://asdt.eu/"
       },
       "investment": "",
-      "type": COMPANIES_MODULE.TYPE.START_UP,
+      "type": COMPANIES_MODULE.TYPE.CORPORATE,
       "programs": false,
       "logo": "",
     },
